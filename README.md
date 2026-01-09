@@ -37,6 +37,15 @@ Keep what remains after that line in stash for the next call; if nothing remains
 This reads as little as possible, returns one line per call, and works for any BUFFER_SIZE (small or large).
 
 Resources
-- [get_next_line subject]
-- [42 Network get_next_line page]|
-- [Network discussion on get_next_line]
+
+get_next_line subject (42 PDF)
+
+man 2 read
+
+man 2 open
+
+man 3 malloc
+
+Static variables in C
+
+C strings basics (strlen, strchr)
