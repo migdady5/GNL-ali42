@@ -1,4 +1,4 @@
-*This activity has been created as part of the 42 curriculum by amigdadi.*
+# migdady5\n\n*This activity has been created as part of the 42 curriculum by amigdadi.*
 
 # get_next_line
 
